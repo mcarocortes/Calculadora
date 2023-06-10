@@ -1,0 +1,8 @@
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\1.Calculadora\Calculadoras\Calculadoras\obj\Debug\Calculadoras.csproj.AssemblyReference.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\1.Calculadora\Calculadoras\Calculadoras\obj\Debug\Calculadoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\1.Calculadora\Calculadoras\Calculadoras\obj\Debug\Calculadoras.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\1.Calculadora\Calculadoras\Calculadoras\bin\Debug\Calculadoras.exe.config
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\1.Calculadora\Calculadoras\Calculadoras\bin\Debug\Calculadoras.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\1.Calculadora\Calculadoras\Calculadoras\bin\Debug\Calculadoras.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\1.Calculadora\Calculadoras\Calculadoras\obj\Debug\Calculadoras.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\1.Calculadora\Calculadoras\Calculadoras\obj\Debug\Calculadoras.pdb
